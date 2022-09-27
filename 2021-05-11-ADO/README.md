@@ -2,6 +2,9 @@
 
 This is the beginning of a multi-part series looking into deploying Terraform using Azure DevOps. There are several goals I want to accomplish in this project.
 
+Code added from GitHub: 
+[![Build Status](https://dev.azure.com/dutzageoorge/Learn%20Azure%20DevOps/_apis/build/status/Learn%20Azure%20DevOps?branchName=main&stageName=Validate)](https://dev.azure.com/dutzageoorge/Learn%20Azure%20DevOps/_build/latest?definitionId=2&branchName=main)
+
 1. Create a pipeline in Azure DevOps using YAML
 1. Validate the Terraform code as part of the pipeline (validate and format)
 1. Move credentials and sensitive data into Azure Key Vault
