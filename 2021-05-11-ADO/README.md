@@ -7,6 +7,10 @@ Code added from GitHub:
 
 [![Build Status](https://dev.azure.com/dutzageoorge/Learn%20Azure%20DevOps/_apis/build/status/dutza.LeanAzureDevOps?branchName=main)](https://dev.azure.com/dutzageoorge/Learn%20Azure%20DevOps/_build/latest?definitionId=3&branchName=main)
 
+adding the image:
+[Azure DevOps Status](https://dev.azure.com/dutzageoorge/Learn%20Azure%20DevOps/_apis/build/status/dutza.LeanAzureDevOps?branchName=main)
+[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg)
+
 1. Create a pipeline in Azure DevOps using YAML
 1. Validate the Terraform code as part of the pipeline (validate and format)
 1. Move credentials and sensitive data into Azure Key Vault
